@@ -16,7 +16,7 @@ TAM y otras: Alicante, El Campello, Sant Joan, Sant Vicent del Raspeig, Mutxamel
 Información y tiempos ofrecidos y mantenidos por (https://alicante.vectalia.es)
 
 TRAM: L1(Luceros-Benidorm), L2(Luceros-Sant Vicent), L3(Luceros-El Campello), L4(Luceros-Pl. la Coruña), L9(Benidorm-Dénia), L5
-Información y tiempos ofrecidos y mantenidos por (https://www.tramalicante.es)
+Información y tiempos ofrecidos y mantenidos por https://www.tramalicante.es
 
 Funcionalidades:
 - Tiempos de paso de los autobuses y tranvías para un nº de parada
@@ -31,7 +31,7 @@ Funcionalidades:
 - Vista para tablets
 
 * Esta aplicación NO ES OFICIAL, ni tiene relación con ninguna empresa o administración.
-La información y los tiempos son ofrecidos y mantenidos por (https://alicante.vectalia.es) y (https://www.tramalicante.es)
+La información y los tiempos son ofrecidos y mantenidos por https://alicante.vectalia.es y https://www.tramalicante.es
 
 Agradecimiento especial a Magnolia Solutions (Marta Frías Rodríguez y Cristina Aroutiounova), por las traducciones de TiempoBus. Con la colaboración de Ana Merayo y Victor Prieto.
 
@@ -45,7 +45,7 @@ http://blog.alberapps.com/2014/01/permisos-android-tiempobus.html
 
 Registro de cambios: http://blog.alberapps.com/p/changelog.html
 
-Aplicación de código abierto, con licencia GPLv3 (http://www.gnu.org/licenses/gpl.html). El código fuente está disponible en: (https://github.com/alberapps/tiempobus)
+Aplicación de código abierto, con licencia GPLv3 (http://www.gnu.org/licenses/gpl.html). El código fuente está disponible en: https://github.com/alberapps/tiempobus
 Cualquier uso de la aplicación y su código fuente, debe respetar las condiciones descritas en la licencia.
 
 * Se agradece cualquier comentario sobre problemas encontrados en terminales concretos, así como sugerencias.

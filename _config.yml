@@ -2,9 +2,11 @@ theme: jekyll-theme-minimal
 logo: https://raw.githubusercontent.com/alberapps/tiempobus/refs/heads/master/TiempoBus/ic_tiempobus_5_adaptive-web.png
 title: Alberto Montiel - AlberApps
 description: Aplicaciones para Android entre otros
+show_downloads: true
 github:
   is_project_page: true
   owner_name: Alberto Montiel
-  owner_url: https://alberapps.com
+  owner_url: https://github.com/alberapps
   repository_url: https://github.com/alberapps/tiempobus
+  repository_nwo: alberapps/tiempobus
   
